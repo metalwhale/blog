@@ -2,6 +2,8 @@ baseURL = "https://blog.metalwhale.dev/"
 title = "Metal Whale's blog"
 theme = "zzo"
 
+rssLimit = 100
+
 [markup]
   [markup.highlight]
     codeFences = true
@@ -14,7 +16,6 @@ theme = "zzo"
     startLevel = 2
 
 [outputs]
-  page = ["HTML", "SearchIndex"]
   home = ["HTML", "RSS", "SearchIndex"]
   section = ["HTML", "RSS", "SearchIndex"]
   taxonomyTerm = ["HTML", "RSS", "SearchIndex"]
