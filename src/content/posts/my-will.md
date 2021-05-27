@@ -137,6 +137,7 @@ description: "This is the list of songs which I want played at my funeral"
 ### Five Finger Death Punch
 - Gone Away
   > Maybe in another life. I could find you there.
+- Inside Out
 - Salvation
 - Under and Over It
 - Wash It All Away
@@ -153,6 +154,7 @@ description: "This is the list of songs which I want played at my funeral"
 ### Godsmack
 - Bulletproof
   > But I promise you that I'll make sure you never forget me.
+- Under your scars
 - Unforgettable
 - When Legends Rise
 
@@ -194,6 +196,7 @@ description: "This is the list of songs which I want played at my funeral"
 
 ### Like A Storm
 - Love the Way You Hate Me
+- The Devil Inside
 
 ### Linkin Park
 - Burn It Down
@@ -297,6 +300,9 @@ description: "This is the list of songs which I want played at my funeral"
 
 ### Terror
 - Hard Lessons
+
+### The veer union
+- Bitter end
 
 ### Theory of a Deadman
 - Angel
