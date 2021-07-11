@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Neural Network on Metal Whale&#39;s blog</title>
+    <link>https://blog.metalwhale.dev/tags/neural-network/</link>
+    <description>Recent content in Neural Network on Metal Whale&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>metalwhale.dev@gmail.com (Metal Whale)</managingEditor>
+    <webMaster>metalwhale.dev@gmail.com (Metal Whale)</webMaster>
+    <lastBuildDate>Tue, 09 Jun 2020 12:33:36 +0000</lastBuildDate>
+    
+        <atom:link href="https://blog.metalwhale.dev/tags/neural-network/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Backpropagation</title>
+        <link>https://blog.metalwhale.dev/posts/backpropagation/</link>
+        <pubDate>Tue, 09 Jun 2020 12:33:36 +0000</pubDate>
+        <author>metalwhale.dev@gmail.com (Metal Whale)</author>
+        <atom:modified>Tue, 09 Jun 2020 12:33:36 +0000</atom:modified>
+        <guid>https://blog.metalwhale.dev/posts/backpropagation/</guid>
+        <description>Notation $w^l_{jk}$: the weight for the connection from the $k^{th}$ neuron in the $(l-1)^{th}$ layer to the $j^{th}$ neuron in the $l^{th}$ layer
+$b^l_j$: the bias of the $j^{th}$ neuron in the $l^{th}$ layer
+$L$: the number of layers in the network
+Feedforward Intermediate quantity $$z^l_j = \sum_k w^l_{jk} a^{l-1}_k + b^l_j \tag{1}$$
+Activation $$a^l_j = \sigma(z^l_j) \tag{2}$$
+Cost $$C = \frac{1}{2} \sum_j (y_j-a^L_j)^2 \tag{3}$$
+Backpropagate Partial derivatives of the last activations From $(3)$: $$\Rightarrow \frac{\partial C}{\partial a^L_j} = a^L_j-y_j$$</description>
+        
+        <dc:creator>Metal Whale</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Neural Network</category>
+            
+          
+        
+        
+          
+            
+              <category>Machine Learning</category>
+            
+          
+        
+        
+          
+            
+              <category>Automatic Differentiation</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
