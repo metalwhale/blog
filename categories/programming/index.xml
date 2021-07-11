@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Programming on Metal Whale&#39;s blog</title>
+    <link>https://blog.metalwhale.dev/categories/programming/</link>
+    <description>Recent content in Programming on Metal Whale&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>metalwhale.dev@gmail.com (Metal Whale)</managingEditor>
+    <webMaster>metalwhale.dev@gmail.com (Metal Whale)</webMaster>
+    <lastBuildDate>Sun, 14 Jun 2020 02:35:57 +0000</lastBuildDate>
+    
+        <atom:link href="https://blog.metalwhale.dev/categories/programming/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Julia Cheat Sheet</title>
+        <link>https://blog.metalwhale.dev/posts/julia-cheat-sheet/</link>
+        <pubDate>Sun, 14 Jun 2020 02:35:57 +0000</pubDate>
+        <author>metalwhale.dev@gmail.com (Metal Whale)</author>
+        <atom:modified>Sun, 14 Jun 2020 02:35:57 +0000</atom:modified>
+        <guid>https://blog.metalwhale.dev/posts/julia-cheat-sheet/</guid>
+        <description>Reference: Julia Documentation
+Integers and Floating-Point Numbers Numeric Literal Coefficients  Allows variables to be immediately preceded by a numeric literal, implying multiplication:  1 2 3 4 5 6 7 8  julia&amp;gt; x = 3 3 julia&amp;gt; 2x^2 - 3x + 1 10 julia&amp;gt; 1.5x^2 - .5x + 1 13.0   Mathematical Operations and Elementary Functions Vectorized &amp;ldquo;dot&amp;rdquo; operators  For every binary operation like ^, there is a corresponding &amp;ldquo;dot&amp;rdquo; operation .</description>
+        
+        <dc:creator>Metal Whale</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Julia</category>
+            
+          
+        
+        
+          
+            
+              <category>Programming</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
