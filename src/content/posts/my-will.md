@@ -7,15 +7,12 @@ description: "This is the list of songs which I want played at my funeral"
 ### Adelitas Way
 - Still Hungry
 
-### Ai Kawashima
-- しおり
-
 ### AKB48
 - Love Trip
 - 桜の栞
 
 ### Alisa Takigawa
-- Night Light
+- 夏の花
 
 ### All That Remains
 - What If I Was Nothing
@@ -82,6 +79,9 @@ description: "This is the list of songs which I want played at my funeral"
 ### Bullet For My Valentine
 - You Want a Battle? (Here's a War)
 
+### Bury Tomorrow
+- Black Flame
+
 ### Cana
 - あなたとずっと
 
@@ -92,27 +92,43 @@ description: "This is the list of songs which I want played at my funeral"
 - Alive
   > I want to be alive.
 
+### Daoko
+- 打上花火
+
 ### Dead by April
+- Crying Over You
 - For Every Step
   > And every second for the rest of my life you will find me here.
 
+### Dead End Finland
+- War Forevermore
+
+### Demotional
+- Boiling point
+
 ### Disturbed
 - A Reason to Fight
+- Divisive
 - Immortalized
 - Indestructible
   > You will be shown. How I've become. Indestructible.
 - Inside the Fire
 - Hold on to Memories
   > So now go do the best things in life. Take a bite of this world while you can.
+- Legion of Monsters
 - No More
   > No more. No more.
-- Stricken
+- Open Your Eyes
 - Stronger on Your Own
   > And still you find yourself alone. You will begin to realize. That you are stronger on your own.
 - The Light
   > Sometimes darkness. Can show you the light.
 - The Sound of Silence
 - The Vengeful One
+- Unstoppable
+- Warrior
+- Who Taught You How to Hate
+  > 'Cause it isn't in your blood. Not a part of what you're made.
 - You're Mine
 
 ### Dream Ami
@@ -127,6 +143,9 @@ description: "This is the list of songs which I want played at my funeral"
 ### Enrique Iglesias
 - Why Not Me?
 
+### Escape The Fate
+- I Am Human
+
 ### Evanescence
 - Bring Me To Life
 - My Immortal
@@ -137,7 +156,7 @@ description: "This is the list of songs which I want played at my funeral"
 ### Five Finger Death Punch
 - Gone Away
   > Maybe in another life. I could find you there.
-- Salvation
+- Inside Out
 - Under and Over It
 - Wash It All Away
   > I've given up. On society. Up on my family. Up on your social disease.
@@ -153,8 +172,7 @@ description: "This is the list of songs which I want played at my funeral"
 ### Godsmack
 - Bulletproof
   > But I promise you that I'll make sure you never forget me.
-- Unforgettable
-- When Legends Rise
+- Under your scars
 
 ### Green Day
 - 21 Guns
@@ -172,6 +190,9 @@ description: "This is the list of songs which I want played at my funeral"
 - Natural
 
 ### In Flames
+- I Am Above
+  > This is the feeling that I have been waiting for.
+- It’s No Good
 - Stay with Me
   > Stay with me.
 
@@ -180,6 +201,9 @@ description: "This is the list of songs which I want played at my funeral"
 
 ### Jay Chou
 - 夜曲
+
+### Jewel
+- Jewel
 
 ### Jonathan Davis
 - Basic Needs
@@ -194,6 +218,7 @@ description: "This is the list of songs which I want played at my funeral"
 
 ### Like A Storm
 - Love the Way You Hate Me
+- The Devil Inside
 
 ### Linkin Park
 - Burn It Down
@@ -265,6 +290,9 @@ description: "This is the list of songs which I want played at my funeral"
 - Right Here Waiting
   > Wherever you go. Whatever you do. I will be right here waiting for you.
 
+### Righteous Vendetta
+- War Is Killing Us All
+
 ### Shane Filan
 - Beautiful In White
 
@@ -281,7 +309,6 @@ description: "This is the list of songs which I want played at my funeral"
 - Killpop
   > Die and fucking love me.
 - Nero Forte
-- Wait and Bleed
 
 ### Spineshank
 - Beginning of the End
@@ -298,6 +325,12 @@ description: "This is the list of songs which I want played at my funeral"
 ### Terror
 - Hard Lessons
 
+### The Red Jumpsuit Apparatus
+- Your Guardian Angel
+
+### The veer union
+- Bitter end
+
 ### Theory of a Deadman
 - Angel
 
@@ -310,23 +343,17 @@ description: "This is the list of songs which I want played at my funeral"
 ### Trademark
 - Only Love
 
-### Trivium
-- The Heart From Your Hate
-
 ### TVXQ!
 - どうして君を好きになってしまったんだろう？
 
 ### Wanbi Tuấn Anh
 - Cho Em
 
-### While She Sleeps
-- The Guilty Party
-
 ### Within Temptation
 - The Reckoning
 
-### 高橋李依
-- 小さな恋のうた
+### Zero Theorem
+- Becoming
 
 ## BEQUESTS & REQUESTS
 After payment of all of personal debts, expenses and liabilities, I request and direct that my property be bequeathed as follows:
